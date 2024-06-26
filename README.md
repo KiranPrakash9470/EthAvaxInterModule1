@@ -34,6 +34,3 @@ This contract demonstrates three different error handling mechanisms:
 
 Each mechanism serves a specific purpose, and the choice of which one to use depends on the situation and the desired behavior of the contract.
 
-## License
-
-This contract is released under the MIT License. Please see the [LICENSE](LICENSE) file for more details.
